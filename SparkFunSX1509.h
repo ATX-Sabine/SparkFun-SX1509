@@ -24,7 +24,7 @@ Distributed as-is; no warranty is given.
 
 #pragma once
 
-#include <cstdint.h>
+#include <stdint.h>
 
 #define RECEIVE_TIMEOUT_VALUE 1000	// Timeout for I2C receive
 
